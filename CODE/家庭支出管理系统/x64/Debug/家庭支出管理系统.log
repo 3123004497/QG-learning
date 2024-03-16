@@ -1,0 +1,18 @@
+﻿  Eachdayamount.c
+  Familyamountsystem.c
+  HistoricalData.c
+  inputinformation.c
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\HistoricalData.c(330,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\HistoricalData.c(354,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\HistoricalData.c(378,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\HistoricalData.c(402,39): warning C4020: “strcmp”: 实参太多
+  loadPerson.c
+  Save_date.c
+  Search.c
+  SortAmount.c
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\SortAmount.c(225,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\SortAmount.c(252,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\SortAmount.c(279,39): warning C4020: “strcmp”: 实参太多
+C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\SortAmount.c(306,39): warning C4020: “strcmp”: 实参太多
+  正在生成代码...
+  家庭支出管理系统.vcxproj -> C:\Users\神樱树屑狐狸\Desktop\课件\程序设计\作业\2023-9-3123004497-韦发宝-C课程设计\家庭支出管理系统\x64\Debug\家庭支出管理系统.exe

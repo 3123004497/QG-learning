@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "家庭支出管理系统", "家庭支出管理系统.vcxproj", "{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{15C259F9-D3DD-4125-B081-CB70C8992AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Debug|x64.ActiveCfg = Debug|x64
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Debug|x64.Build.0 = Debug|x64
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Debug|x86.Build.0 = Debug|Win32
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Release|x64.ActiveCfg = Release|x64
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Release|x64.Build.0 = Release|x64
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Release|x86.ActiveCfg = Release|Win32
+		{7B9045A0-6E13-4D75-9EC1-B3F963E91A1B}.Release|x86.Build.0 = Release|Win32
+		{15C259F9-D3DD-4125-B081-CB70C8992AFB}.Debug|x64.ActiveCfg = Debug
+		{15C259F9-D3DD-4125-B081-CB70C8992AFB}.Debug|x86.ActiveCfg = Debug
+		{15C259F9-D3DD-4125-B081-CB70C8992AFB}.Release|x64.ActiveCfg = Release
+		{15C259F9-D3DD-4125-B081-CB70C8992AFB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B15B53F-E3E1-440B-A6B0-BB16D5530DAD}
+	EndGlobalSection
+EndGlobal
